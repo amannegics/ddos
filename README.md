@@ -1,2 +1,2 @@
-# Dos
+# Ddos
 Denial OF Service 
